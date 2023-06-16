@@ -6,3 +6,6 @@ node_modules/
 
 # Ignorar a pasta "dist"
 dist/
+
+# Ignorar arquivos JavaScript
+*.js
